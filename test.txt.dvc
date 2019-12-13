@@ -1,0 +1,7 @@
+md5: c10d06260c9b282278adf5cc9d0dda79
+outs:
+- md5: d41d8cd98f00b204e9800998ecf8427e
+  path: /Users/jordanvolz/dataiku/saved_models/BASKETBALLv2/test.txt
+  cache: true
+  metric: false
+  persist: false
